@@ -19,10 +19,11 @@
 
 .navbar__container {
     display: flex;
-    justify-content: space-around;
+    justify-content: space-evenly;
+
     height: 80px;
     z-index: 1;
-    width: 0%;
+    width: 100%;
     max-width: 1300px;
 }
 
